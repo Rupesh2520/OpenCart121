@@ -1,0 +1,42 @@
+2024-12-09 14:36:22 INFO  TC_001_AccountRegistrationTest:16 - Strating TC_001_AccountRegistrationtTest
+2024-12-09 14:36:23 INFO  TC_001_AccountRegistrationTest:20 - Clicked on My Account 
+2024-12-09 14:36:23 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register 
+2024-12-09 14:36:23 INFO  TC_001_AccountRegistrationTest:28 - Provided First Name 
+2024-12-09 14:36:23 INFO  TC_001_AccountRegistrationTest:31 - Provided Last Name 
+2024-12-09 14:36:23 INFO  TC_001_AccountRegistrationTest:35 - Provided Email 
+2024-12-09 14:36:24 INFO  TC_001_AccountRegistrationTest:38 - Provided Telephone 
+2024-12-09 14:36:24 INFO  TC_001_AccountRegistrationTest:41 - Provided Password 
+2024-12-09 14:36:24 INFO  TC_001_AccountRegistrationTest:44 - Provided Confrmed Password 
+2024-12-09 14:36:24 INFO  TC_001_AccountRegistrationTest:47 - Set Privacy Policy 
+2024-12-09 14:36:25 INFO  TC_001_AccountRegistrationTest:50 - Clicked on Continue 
+2024-12-09 14:36:27 INFO  TC_001_AccountRegistrationTest:62 - Finished TC_001_AccountRegistrationtTest
+2024-12-09 14:36:30 INFO  TC_002_LoginTest:18 - Starting TC_002_LoginTest
+2024-12-09 14:36:32 INFO  TC_002_LoginTest:48 -  Finished TC_002_LoginTest
+2024-12-09 15:04:36 INFO  TC_001_AccountRegistrationTest:16 - Strating TC_001_AccountRegistrationtTest
+2024-12-09 15:04:37 INFO  TC_001_AccountRegistrationTest:20 - Clicked on My Account 
+2024-12-09 15:04:37 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register 
+2024-12-09 15:04:37 INFO  TC_001_AccountRegistrationTest:28 - Provided First Name 
+2024-12-09 15:04:37 INFO  TC_001_AccountRegistrationTest:31 - Provided Last Name 
+2024-12-09 15:04:38 INFO  TC_001_AccountRegistrationTest:35 - Provided Email 
+2024-12-09 15:04:38 INFO  TC_001_AccountRegistrationTest:38 - Provided Telephone 
+2024-12-09 15:04:38 INFO  TC_001_AccountRegistrationTest:41 - Provided Password 
+2024-12-09 15:04:38 INFO  TC_001_AccountRegistrationTest:44 - Provided Confrmed Password 
+2024-12-09 15:04:38 INFO  TC_001_AccountRegistrationTest:47 - Set Privacy Policy 
+2024-12-09 15:04:39 INFO  TC_001_AccountRegistrationTest:50 - Clicked on Continue 
+2024-12-09 15:04:41 INFO  TC_001_AccountRegistrationTest:62 - Finished TC_001_AccountRegistrationtTest
+2024-12-09 15:04:44 INFO  TC_002_LoginTest:18 - Starting TC_002_LoginTest
+2024-12-09 15:04:45 INFO  TC_002_LoginTest:48 -  Finished TC_002_LoginTest
+2024-12-09 15:18:17 INFO  TC_001_AccountRegistrationTest:16 - Strating TC_001_AccountRegistrationtTest
+2024-12-09 15:18:18 INFO  TC_001_AccountRegistrationTest:20 - Clicked on My Account 
+2024-12-09 15:18:18 INFO  TC_001_AccountRegistrationTest:23 - Clicked on Register 
+2024-12-09 15:18:18 INFO  TC_001_AccountRegistrationTest:28 - Provided First Name 
+2024-12-09 15:18:18 INFO  TC_001_AccountRegistrationTest:31 - Provided Last Name 
+2024-12-09 15:18:18 INFO  TC_001_AccountRegistrationTest:35 - Provided Email 
+2024-12-09 15:18:18 INFO  TC_001_AccountRegistrationTest:38 - Provided Telephone 
+2024-12-09 15:18:19 INFO  TC_001_AccountRegistrationTest:41 - Provided Password 
+2024-12-09 15:18:19 INFO  TC_001_AccountRegistrationTest:44 - Provided Confrmed Password 
+2024-12-09 15:18:19 INFO  TC_001_AccountRegistrationTest:47 - Set Privacy Policy 
+2024-12-09 15:18:19 INFO  TC_001_AccountRegistrationTest:50 - Clicked on Continue 
+2024-12-09 15:18:21 INFO  TC_001_AccountRegistrationTest:62 - Finished TC_001_AccountRegistrationtTest
+2024-12-09 15:18:24 INFO  TC_002_LoginTest:18 - Starting TC_002_LoginTest
+2024-12-09 15:18:26 INFO  TC_002_LoginTest:48 -  Finished TC_002_LoginTest
